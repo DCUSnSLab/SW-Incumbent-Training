@@ -1,3 +1,28 @@
 [submodule "src/racecar"]
 	path = src/racecar
 	url = https://github.com/DCUSnSLab/racecar.git
+[submodule "src/vesc"]
+	path = src/vesc
+	url = https://github.com/DCUSnSLab/vesc.git
+[submodule "src/MIT-Racecar-Labs"]
+	path = src/MIT-Racecar-Labs
+	url = https://github.com/DCUSnSLab/MIT_Racecar_Labs_Noetic.git
+	branch = 18.04
+[submodule "src/range_libc"]
+	path = src/range_libc
+	url = https://github.com/DCUSnSLab/ROS_range_libc.git
+	branch = melodic-devel
+[submodule "src/particle_filter"]
+	path = src/particle_filter
+	url = https://github.com/DCUSnSLab/MIT_Particle_filter.git
+	branch = melodic-devel
+[submodule "src/navigation"]
+	path = src/navigation
+	url = https://github.com/DCUSnSLab/navigation.git
+[submodule "src/hector_slam"]
+	path = src/hector_slam
+	url = https://github.com/DCUSnSLab/Hector_SLAM_SnSLab.git
+	branch = melodic-devel
+[submodule "src/ackermann_msgs"]
+	path = src/ackermann_msgs
+	url = https://github.com/DCUSnSLab/ackermann_msgs.git
